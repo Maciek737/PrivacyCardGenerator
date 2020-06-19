@@ -1,0 +1,18 @@
+{
+  "name": "privacy-generator",
+  "version": "0.0.1",
+  "description": "A simple Privacy Card Generator aimed to help you make vccs fast and simple. Created by Lil Chuk#0001",
+  "main": "main.js",
+  "bin": "bin.js",
+  "dependencies": {
+    "chrome-paths": "^1.0.1",
+    "colors": "^1.4.0",
+    "puppeteer": "^3.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lil Chuk#0001",
+  "license": "ISC"
+}
