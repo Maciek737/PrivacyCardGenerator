@@ -9,7 +9,7 @@ Please give me a job :)
 
 There are loads of comments in the code explaning exactly what is happening in order to help demonstrate my abilities and thinking process.
 
-For anyone from the snekaer world or anyone looking for this generator, it works perfectly as of June 1st 2020. 
+For anyone from the sneaker world or anyone looking for this generator, it works perfectly as of June 1st 2020. 
 
 This is a rather early build that has been uploaded here just to demonstarte some of my code. 
 
